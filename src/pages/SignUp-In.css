@@ -1,0 +1,39 @@
+.SignUp, .SignIn {
+  text-align: center;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+
+label {
+    text-align: left;
+    padding: 0.25rem 0;
+}
+  
+input {
+    margin: 0.5rem 0;
+    padding: 1rem;
+    border: none;
+    border-radius: 10px;
+}
+  
+button {
+    color: White;
+    padding-top: 50px;
+}
+  
+.link-btn {
+    padding-top: 20px;
+    background: none;
+    border: none;
+    text-decoration: underline;
+    color: black;
+}
