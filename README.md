@@ -1,6 +1,6 @@
 # Wedo - project documentation
 
-- The following file acts as the documentation for the entire project.
+- The following file acts as the documentation for the entire project. (Could not turn project public so I created a new template repository and gave credits above)
 
 ## Project management
 
