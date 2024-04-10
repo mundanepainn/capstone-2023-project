@@ -1,0 +1,15 @@
+/* css for top navigation bar */
+.wedonavtext {
+    color:white;
+    padding: 2px 10px!important;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+
+.wedonav {
+    background-color: black;
+    justify-content: space-evenly;
+    height: 50px;
+    align-items: center;
+}
