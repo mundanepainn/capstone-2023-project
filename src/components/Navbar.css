@@ -1,0 +1,17 @@
+.wedonavtext {
+    background-color: #4e84ee;
+    color:white;
+    padding: 7px 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.wedonavtext:hover {
+    background-color: white;
+    color: black;
+}
+.wedonav {
+    background-color: black;
+    justify-content: space-evenly;
+    height: 50px;
+
+}
